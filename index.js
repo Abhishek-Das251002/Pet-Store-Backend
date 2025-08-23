@@ -1,11 +1,11 @@
 const express = require("express")
 const {makeDbConnection} = require("./dbConnection")
 const ItemInfo = require("./petStore.model")
+
 const app = express()
+app.use(express.json())
 
 makeDbConnection()
-
-app.use(express.json())
 
 
 app.get("/products", async (req, res) => {
