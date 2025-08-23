@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Chicken Dry Dog Food",
+    "description": "High protein dry food for adult dogs.",
+    "price": 599,
+    "category": "Food",
+    "petType": "Dog",
+    "rating": 4.5,
+    "inStock": true,
+    "imageUrl": "/assets/products/dog-food-1.jpg"
+  },
+  {
+    "name": "Salmon Cat Food",
+    "description": "Grain-free salmon kibble for cats.",
+    "price": 499,
+    "category": "Food",
+    "petType": "Cat",
+    "rating": 4.3,
+    "inStock": true,
+    "imageUrl": "/assets/products/cat-food-1.jpg"
+  },
+  {
+    "name": "Bird Seed Mix",
+    "description": "Nutrient-rich seeds for parrots and finches.",
+    "price": 199,
+    "category": "Food",
+    "petType": "Bird",
+    "rating": 4.2,
+    "inStock": true,
+    "imageUrl": "/assets/products/bird-food-1.jpg"
+  },
+  {
+    "name": "Fish Flakes",
+    "description": "Color-enhancing flakes for tropical fish.",
+    "price": 149,
+    "category": "Food",
+    "petType": "Fish",
+    "rating": 4.0,
+    "inStock": true,
+    "imageUrl": "/assets/products/fish-food-1.jpg"
+  },
+  {
+    "name": "Chew Toy Bone",
+    "description": "Durable chew toy for teething dogs.",
+    "price": 249,
+    "category": "Toys",
+    "petType": "Dog",
+    "rating": 4.6,
+    "inStock": true,
+    "imageUrl": "/assets/products/dog-toy-1.jpg"
+  },
+  {
+    "name": "Cat Scratching Ball",
+    "description": "Interactive toy to keep cats active.",
+    "price": 299,
+    "category": "Toys",
+    "petType": "Cat",
+    "rating": 4.1,
+    "inStock": true,
+    "imageUrl": "/assets/products/cat-toy-1.jpg"
+  },
+  {
+    "name": "Hanging Bird Toy",
+    "description": "Colorful rope toy for cage birds.",
+    "price": 149,
+    "category": "Toys",
+    "petType": "Bird",
+    "rating": 4.4,
+    "inStock": true,
+    "imageUrl": "/assets/products/bird-toy-1.jpg"
+  },
+  {
+    "name": "Floating Fish Toy",
+    "description": "Decorative floating toy for aquariums.",
+    "price": 199,
+    "category": "Toys",
+    "petType": "Fish",
+    "rating": 3.9,
+    "inStock": true,
+    "imageUrl": "/assets/products/fish-toy-1.jpg"
+  },
+  {
+    "name": "Dog Shampoo",
+    "description": "Anti-flea, gentle dog shampoo.",
+    "price": 349,
+    "category": "Grooming",
+    "petType": "Dog",
+    "rating": 4.7,
+    "inStock": true,
+    "imageUrl": "/assets/products/dog-groom-1.jpg"
+  },
+  {
+    "name": "Cat Grooming Brush",
+    "description": "Soft bristle brush for cats.",
+    "price": 199,
+    "category": "Grooming",
+    "petType": "Cat",
+    "rating": 4.5,
+    "inStock": true,
+    "imageUrl": "/assets/products/cat-groom-1.jpg"
+  },
+  {
+    "name": "Bird Nail Clipper",
+    "description": "Safe nail trimming tool for small birds.",
+    "price": 149,
+    "category": "Grooming",
+    "petType": "Bird",
+    "rating": 4.0,
+    "inStock": true,
+    "imageUrl": "/assets/products/bird-groom-1.jpg"
+  },
+  {
+    "name": "Aquarium Cleaner Brush",
+    "description": "Multipurpose brush for aquarium cleaning.",
+    "price": 249,
+    "category": "Grooming",
+    "petType": "Fish",
+    "rating": 4.2,
+    "inStock": true,
+    "imageUrl": "/assets/products/fish-groom-1.jpg"
+  },
+  {
+    "name": "Dog Bed Cushion",
+    "description": "Soft washable bed for medium dogs.",
+    "price": 999,
+    "category": "Bedding",
+    "petType": "Dog",
+    "rating": 4.6,
+    "inStock": true,
+    "imageUrl": "/assets/products/dog-bed-1.jpg"
+  },
+  {
+    "name": "Cat Sleeping Tent",
+    "description": "Cozy foldable tent for cats.",
+    "price": 799,
+    "category": "Bedding",
+    "petType": "Cat",
+    "rating": 4.4,
+    "inStock": true,
+    "imageUrl": "/assets/products/cat-bed-1.jpg"
+  },
+  {
+    "name": "Bird Nesting Box",
+    "description": "Wooden nesting box for small birds.",
+    "price": 499,
+    "category": "Bedding",
+    "petType": "Bird",
+    "rating": 4.1,
+    "inStock": true,
+    "imageUrl": "/assets/products/bird-bed-1.jpg"
+  },
+  {
+    "name": "Aquarium Gravel Bed",
+    "description": "Decorative gravel for aquariums.",
+    "price": 399,
+    "category": "Bedding",
+    "petType": "Fish",
+    "rating": 4.3,
+    "inStock": true,
+    "imageUrl": "/assets/products/fish-bed-1.jpg"
+  },
+  {
+    "name": "Dog Vitamin Supplements",
+    "description": "Chewable vitamins for healthy coat & joints.",
+    "price": 449,
+    "category": "Health",
+    "petType": "Dog",
+    "rating": 4.8,
+    "inStock": true,
+    "imageUrl": "/assets/products/dog-health-1.jpg"
+  },
+  {
+    "name": "Cat Deworming Syrup",
+    "description": "Effective deworming syrup for cats.",
+    "price": 299,
+    "category": "Health",
+    "petType": "Cat",
+    "rating": 4.5,
+    "inStock": true,
+    "imageUrl": "/assets/products/cat-health-1.jpg"
+  },
+  {
+    "name": "Bird Multivitamin Drops",
+    "description": "Essential vitamins for healthy feathers.",
+    "price": 199,
+    "category": "Health",
+    "petType": "Bird",
+    "rating": 4.3,
+    "inStock": true,
+    "imageUrl": "/assets/products/bird-health-1.jpg"
+  },
+  {
+    "name": "Fish Water Conditioner",
+    "description": "Removes chlorine & maintains aquarium health.",
+    "price": 249,
+    "category": "Health",
+    "petType": "Fish",
+    "rating": 4.4,
+    "inStock": true,
+    "imageUrl": "/assets/products/fish-health-1.jpg"
+  }
+]
