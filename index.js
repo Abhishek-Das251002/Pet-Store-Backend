@@ -37,25 +37,6 @@ app.get("/products", async (req, res) => {
     }    
 })
 
-// app.get("/products/:productId" , async (req, res) => {
-//     try{
-//         const id = req.params.productId
-//         const selectedProduct = await ItemInfo.findById(id)
-//         res.status(200).json(selectedProduct)
-//     }catch(error){
-//         res.status(500).json({message : error.message})
-//     }
-// })
-
-// app.get("/categories", async (req, res) => {
-//     try{
-//         const allCategories = (await (ItemInfo.find())).map(prod => prod.category)
-//         const finalCategories = [...new Set(allCategories)]
-//         res.status(200).json(finalCategories)
-//     }catch(error){
-//         res.status(500).json({message: error.message})
-//     }
-// })
 
 const PORT = 3000
 
