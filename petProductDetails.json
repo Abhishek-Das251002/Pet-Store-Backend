@@ -7,7 +7,7 @@
     "petType": "Dog",
     "rating": 4.5,
     "inStock": true,
-    "imageUrl": "/assets/products/dog-food-1.jpg"
+    "imageUrl": "/assets/products/dog-food-1.avif"
   },
   {
     "name": "Salmon Cat Food",
@@ -47,7 +47,7 @@
     "petType": "Dog",
     "rating": 4.6,
     "inStock": true,
-    "imageUrl": "/assets/products/dog-toy-1.jpg"
+    "imageUrl": "/assets/products/dog-toy-1.webp"
   },
   {
     "name": "Cat Scratching Ball",
@@ -77,7 +77,7 @@
     "petType": "Fish",
     "rating": 3.9,
     "inStock": true,
-    "imageUrl": "/assets/products/fish-toy-1.jpg"
+    "imageUrl": "/assets/products/fish-toy-1.webp"
   },
   {
     "name": "Dog Shampoo",
@@ -137,7 +137,7 @@
     "petType": "Cat",
     "rating": 4.4,
     "inStock": true,
-    "imageUrl": "/assets/products/cat-bed-1.jpg"
+    "imageUrl": "/assets/products/cat-bed-1.webp"
   },
   {
     "name": "Bird Nesting Box",
@@ -157,7 +157,7 @@
     "petType": "Fish",
     "rating": 4.3,
     "inStock": true,
-    "imageUrl": "/assets/products/fish-bed-1.jpg"
+    "imageUrl": "/assets/products/fish-bed-1.webp"
   },
   {
     "name": "Dog Vitamin Supplements",
@@ -197,6 +197,6 @@
     "petType": "Fish",
     "rating": 4.4,
     "inStock": true,
-    "imageUrl": "/assets/products/fish-health-1.jpg"
+    "imageUrl": "/assets/products/fish-health-1.png"
   }
 ]
