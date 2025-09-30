@@ -32,6 +32,14 @@ const petStoreSchema = new mongoose.Schema({
     imageUrl: {
         type: String,
         required: true,
+    },
+    discount: {
+        type: Number,
+        required: true,
+    },
+    fullDetails: {
+        type: String,
+        required: true,
     }
 })
 
