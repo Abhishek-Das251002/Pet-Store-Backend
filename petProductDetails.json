@@ -9,7 +9,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/dog-food-1.avif",
     "discount": 15,
-    "fullDetails": "This premium chicken dry food is formulated with high-quality protein to support muscle health and energy in adult dogs. It contains essential vitamins and minerals for overall immunity. Rich in fiber, it aids digestion and keeps your pet active throughout the day. Perfect for dogs of all breeds and sizes."
+    "fullDetails": "This premium chicken dry food is formulated with high-quality protein to support muscle health and energy in adult dogs. It contains essential vitamins and minerals for overall immunity. Rich in fiber, it aids digestion and keeps your pet active throughout the day. Perfect for dogs of all breeds and sizes"
   },
   {
     "name": "Salmon Cat Food",
@@ -21,7 +21,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/cat-food-1.jpg",
     "discount": 20,
-    "fullDetails": "Grain-free salmon kibble designed for cats with sensitive stomachs. Packed with omega-3 and omega-6 fatty acids to support a shiny coat and healthy skin. Provides balanced nutrition with natural ingredients. Helps maintain strong teeth and bones."
+    "fullDetails": "Grain-free salmon kibble designed for cats with sensitive stomachs. Packed with omega-3 and omega-6 fatty acids to support a shiny coat and healthy skin. Provides balanced nutrition with natural ingredients. Helps maintain strong teeth and bones"
   },
   {
     "name": "Bird Seed Mix",
@@ -33,7 +33,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/bird-food-1.jpg",
     "discount": 10,
-    "fullDetails": "A nutritious mix of seeds crafted for parrots, finches, and other small birds. Enriched with essential vitamins to promote feather health and energy. Helps support immune function while satisfying natural pecking instincts. Keeps your birds active and happy."
+    "fullDetails": "A nutritious mix of seeds crafted for parrots, finches, and other small birds. Enriched with essential vitamins to promote feather health and energy. Helps support immune function while satisfying natural pecking instincts. Keeps your birds active and happy"
   },
   {
     "name": "Fish Flakes",
@@ -45,7 +45,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/fish-food-1.jpg",
     "discount": 12,
-    "fullDetails": "These flakes are designed to enhance the natural colors of tropical fish. Formulated with protein-rich ingredients that support growth and vitality. Easy to digest and reduces tank waste. Suitable for both small and medium-sized fish."
+    "fullDetails": "These flakes are designed to enhance the natural colors of tropical fish. Formulated with protein-rich ingredients that support growth and vitality. Easy to digest and reduces tank waste. Suitable for both small and medium-sized fish"
   },
   {
     "name": "Chew Toy Bone",
@@ -57,7 +57,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/dog-toy-1.webp",
     "discount": 18,
-    "fullDetails": "Made from durable, non-toxic material that withstands tough chewing. Perfect for teething puppies and active dogs. Helps reduce destructive chewing by keeping pets engaged. Also promotes dental health by reducing plaque buildup."
+    "fullDetails": "Made from durable, non-toxic material that withstands tough chewing. Perfect for teething puppies and active dogs. Helps reduce destructive chewing by keeping pets engaged. Also promotes dental health by reducing plaque buildup"
   },
   {
     "name": "Cat Scratching Ball",
@@ -69,7 +69,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/cat-toy-1.jpg",
     "discount": 14,
-    "fullDetails": "Fun scratching ball designed to entertain cats and keep claws healthy. Made from durable sisal material that encourages natural scratching behavior. Keeps cats active and prevents furniture damage. Lightweight and easy to move around the house."
+    "fullDetails": "Fun scratching ball designed to entertain cats and keep claws healthy. Made from durable sisal material that encourages natural scratching behavior. Keeps cats active and prevents furniture damage. Lightweight and easy to move around the house"
   },
   {
     "name": "Hanging Bird Toy",
@@ -81,7 +81,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/bird-toy-1.jpg",
     "discount": 10,
-    "fullDetails": "Bright and colorful hanging toy that stimulates birds mentally and physically. Crafted with safe, non-toxic materials suitable for all cage birds. Encourages climbing, pecking, and playing behaviors. Helps prevent boredom and stress."
+    "fullDetails": "Bright and colorful hanging toy that stimulates birds mentally and physically. Crafted with safe, non-toxic materials suitable for all cage birds. Encourages climbing, pecking, and playing behaviors. Helps prevent boredom and stress"
   },
   {
     "name": "Floating Fish Toy",
@@ -93,7 +93,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/fish-toy-1.webp",
     "discount": 16,
-    "fullDetails": "A decorative toy that floats in aquariums, creating a playful environment. Non-toxic and safe for all fish types. Encourages natural chasing behavior in fish. Adds beauty and movement to aquariums while keeping pets active."
+    "fullDetails": "A decorative toy that floats in aquariums, creating a playful environment. Non-toxic and safe for all fish types. Encourages natural chasing behavior in fish. Adds beauty and movement to aquariums while keeping pets active"
   },
   {
     "name": "Dog Shampoo",
@@ -105,7 +105,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/dog-groom-1.jpg",
     "discount": 22,
-    "fullDetails": "Mild shampoo formulated to remove fleas and ticks while keeping fur soft. Enriched with natural extracts for a pleasant fragrance. Gentle on the skin and suitable for regular use. Leaves coat shiny, clean, and fresh."
+    "fullDetails": "Mild shampoo formulated to remove fleas and ticks while keeping fur soft. Enriched with natural extracts for a pleasant fragrance. Gentle on the skin and suitable for regular use. Leaves coat shiny, clean, and fresh"
   },
   {
     "name": "Cat Grooming Brush",
@@ -117,7 +117,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/cat-groom-1.jpg",
     "discount": 15,
-    "fullDetails": "Soft bristle grooming brush designed to remove loose hair and tangles. Gentle on cat skin and helps reduce shedding. Encourages bonding while grooming sessions. Keeps coat smooth and shiny."
+    "fullDetails": "Soft bristle grooming brush designed to remove loose hair and tangles. Gentle on cat skin and helps reduce shedding. Encourages bonding while grooming sessions. Keeps coat smooth and shiny"
   },
   {
     "name": "Bird Nail Clipper",
@@ -129,7 +129,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/bird-groom-1.jpg",
     "discount": 12,
-    "fullDetails": "Compact nail clipper designed specifically for small birds. Made from durable stainless steel for precision trimming. Ensures safety and comfort during grooming. Helps maintain healthy claws and reduces risk of injury."
+    "fullDetails": "Compact nail clipper designed specifically for small birds. Made from durable stainless steel for precision trimming. Ensures safety and comfort during grooming. Helps maintain healthy claws and reduces risk of injury"
   },
   {
     "name": "Aquarium Cleaner Brush",
@@ -141,7 +141,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/fish-groom-1.jpg",
     "discount": 10,
-    "fullDetails": "This multipurpose brush is ideal for cleaning aquarium glass and decorations. Strong bristles remove algae and dirt without scratching surfaces. Easy-to-grip handle for convenient use. Keeps your aquarium sparkling clean."
+    "fullDetails": "This multipurpose brush is ideal for cleaning aquarium glass and decorations. Strong bristles remove algae and dirt without scratching surfaces. Easy-to-grip handle for convenient use. Keeps your aquarium sparkling clean"
   },
   {
     "name": "Dog Bed Cushion",
@@ -153,7 +153,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/dog-bed-1.jpg",
     "discount": 25,
-    "fullDetails": "Comfortable cushion bed designed for medium-sized dogs. Made with soft, washable fabric for easy maintenance. Provides excellent support for joints and muscles. Keeps pets cozy and relaxed during naps."
+    "fullDetails": "Comfortable cushion bed designed for medium-sized dogs. Made with soft, washable fabric for easy maintenance. Provides excellent support for joints and muscles. Keeps pets cozy and relaxed during naps"
   },
   {
     "name": "Cat Sleeping Tent",
@@ -165,7 +165,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/cat-bed-1.webp",
     "discount": 20,
-    "fullDetails": "Foldable sleeping tent offering cats a private, cozy space. Made with breathable fabric that ensures comfort. Easy to clean and maintain. Provides a sense of security and relaxation for cats."
+    "fullDetails": "Foldable sleeping tent offering cats a private, cozy space. Made with breathable fabric that ensures comfort. Easy to clean and maintain. Provides a sense of security and relaxation for cats"
   },
   {
     "name": "Bird Nesting Box",
@@ -177,7 +177,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/bird-bed-1.jpg",
     "discount": 12,
-    "fullDetails": "Sturdy wooden nesting box designed for small birds like finches and parakeets. Provides a safe space for breeding and resting. Easy to install in cages or outdoor enclosures. Encourages natural nesting behavior."
+    "fullDetails": "Sturdy wooden nesting box designed for small birds like finches and parakeets. Provides a safe space for breeding and resting. Easy to install in cages or outdoor enclosures. Encourages natural nesting behavior"
   },
   {
     "name": "Aquarium Gravel Bed",
@@ -189,7 +189,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/fish-bed-1.webp",
     "discount": 15,
-    "fullDetails": "Decorative gravel that enhances the beauty of aquariums. Helps anchor plants and ornaments securely. Made from fish-safe materials that do not affect water quality. Available in vibrant colors to brighten tanks."
+    "fullDetails": "Decorative gravel that enhances the beauty of aquariums. Helps anchor plants and ornaments securely. Made from fish-safe materials that do not affect water quality. Available in vibrant colors to brighten tanks"
   },
   {
     "name": "Dog Vitamin Supplements",
@@ -201,7 +201,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/dog-health-1.jpg",
     "discount": 20,
-    "fullDetails": "Tasty chewable supplements enriched with essential vitamins and minerals. Supports joint flexibility, shiny coat, and strong immunity. Easy to digest and suitable for daily use. Keeps your dog active and healthy."
+    "fullDetails": "Tasty chewable supplements enriched with essential vitamins and minerals. Supports joint flexibility, shiny coat, and strong immunity. Easy to digest and suitable for daily use. Keeps your dog active and healthy"
   },
   {
     "name": "Cat Deworming Syrup",
@@ -213,7 +213,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/cat-health-1.jpg",
     "discount": 18,
-    "fullDetails": "Safe and effective deworming syrup for cats of all breeds. Helps eliminate common intestinal worms. Easy-to-administer liquid formula with a palatable taste. Promotes better digestion and overall health."
+    "fullDetails": "Safe and effective deworming syrup for cats of all breeds. Helps eliminate common intestinal worms. Easy-to-administer liquid formula with a palatable taste. Promotes better digestion and overall health"
   },
   {
     "name": "Bird Multivitamin Drops",
@@ -225,7 +225,7 @@
     "inStock": true,
     "imageUrl": "/assets/products/bird-health-1.jpg",
     "discount": 10,
-    "fullDetails": "Liquid multivitamin drops designed to boost bird immunity and feather health. Easy to add to drinking water or food. Enhances energy and reduces stress in caged birds. Suitable for daily use across species."
+    "fullDetails": "Liquid multivitamin drops designed to boost bird immunity and feather health. Easy to add to drinking water or food. Enhances energy and reduces stress in caged birds. Suitable for daily use across species"
   },
   {
     "name": "Fish Water Conditioner",
@@ -237,6 +237,6 @@
     "inStock": true,
     "imageUrl": "/assets/products/fish-health-1.png",
     "discount": 14,
-    "fullDetails": "Special formula that neutralizes chlorine and harmful chemicals in tap water. Maintains a safe and healthy aquarium environment. Protects fish gills and scales. Easy to use for both freshwater and saltwater tanks."
+    "fullDetails": "Special formula that neutralizes chlorine and harmful chemicals in tap water. Maintains a safe and healthy aquarium environment. Protects fish gills and scales. Easy to use for both freshwater and saltwater tanks"
   }
 ]
