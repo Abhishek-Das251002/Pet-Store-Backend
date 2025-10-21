@@ -1,6 +1,8 @@
 const express = require("express")
 const {makeDbConnection} = require("./dbConnection")
 const ItemInfo = require("./petStore.model")
+const OrderInfo = require("./petStoreOrders.model")
+
 
 const app = express()
 app.use(express.json())
@@ -56,6 +58,28 @@ app.get("/categories", async (req, res) => {
         res.status(500).json({message: error.message})
     }
 })
+
+
+app.post("/orders/history", async (req, res) => {
+    try{
+        const newOrder = new OrderInfo(req.body)
+        const saveOrder = await newOrder.save()
+        res.status(201).json({message: "order saved successfully.", order: saveOrder})
+    }catch(error){
+        res.status(500).json({error: error.message})
+    }
+})
+
+
+app.get("/orders/history", async (req, res) => {
+    try{
+        const orderList = await OrderInfo.find()
+        res.json(orderList)
+    }catch(error){
+        res.status(500).json({error: "Failed to fetch hotels."})
+    }
+})
+
 
 const PORT = 3000
 
