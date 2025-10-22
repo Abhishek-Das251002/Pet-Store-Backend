@@ -2,12 +2,8 @@ const mongoose = require("mongoose")
 
 
 const addressSchema = new mongoose.Schema({
-        name: {
+        addName: {
             type: String,
-            required: true,
-        },
-        phone: {
-            type: Number,
             required: true,
         },
         address: {
@@ -18,11 +14,19 @@ const addressSchema = new mongoose.Schema({
             type: String,
             required: true,
         },
-        state: {
+        id: {
             type: String,
             required: true,
         },
+        mobNo: {
+            type: Number,
+            required: true,
+        },
         pincode: {
+            type: String,
+            required: true,
+        },
+        state: {
             type: String,
             required: true,
         },
