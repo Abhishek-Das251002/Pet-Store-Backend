@@ -1,5 +1,28 @@
 const mongoose = require("mongoose")
 
+const cartItemSchema = new mongoose.Schema({
+    productId: {
+        type: String,
+        required: true,
+    },
+    productName: {
+        type: String,
+        required: true,
+    },
+    quantity: {
+        type: Number, 
+        required: true,
+    },
+    price: {
+        type: Number,
+        required: true,
+    },
+    imageUrl: {
+        type: String,
+        required: true,
+    }
+})
+
 
 const addressSchema = new mongoose.Schema({
         addName: {
@@ -41,11 +64,7 @@ const orderSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    items: [
-        {
-            type: String,
-        }   
-    ],
+    items: [cartItemSchema],
     totalAmount:{
         type: Number,
         required: true,
