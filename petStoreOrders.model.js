@@ -1,28 +1,5 @@
 const mongoose = require("mongoose")
 
-const orderCartItems = new mongoose.Schema({
-    productName: {
-        type: String,
-        required: true,
-    },
-    quantity: {
-        type: Number,
-        required: true,
-    },
-    price: {
-        type: Number,
-        required: true,
-    },
-    total: {
-        type: Number,
-        required: true,
-    },
-    imageUrl: {
-        type: String,
-        required: true,
-    }
-});
-
 
 const addressSchema = new mongoose.Schema({
         name: {
@@ -60,7 +37,11 @@ const orderSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    items: [orderCartItems],
+    items: [
+        {
+            type: String,
+        }   
+    ],
     totalAmount:{
         type: Number,
         required: true,
