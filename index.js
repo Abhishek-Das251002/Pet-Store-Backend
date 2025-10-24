@@ -30,7 +30,7 @@ app.get("/products", async (req, res) => {
     try{
         const petProducts = await allProducts()
         if(petProducts){
-            res.status(200).json({data : {products : petProducts}})
+            res.status(200).json(petProducts)
         }else{
             res.status(404).json({error: "products not found."})
         }
