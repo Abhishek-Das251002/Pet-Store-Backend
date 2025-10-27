@@ -8,12 +8,11 @@ const app = express()
 app.use(express.json())
 
 const cors = require("cors")
-app.use(cors());
-// const corsOptions = {
-//     origin: "*", 
-//     credentials: true,
-// }
-// app.use(cors(corsOptions))
+const corsOptions = {
+    origin: "*", 
+    credentials: true,
+}
+app.use(cors(corsOptions))
 
 
 makeDbConnection()
